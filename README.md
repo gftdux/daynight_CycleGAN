@@ -3,4 +3,4 @@ preurp in kaist
 
 <br>
 
-with four teammates
+with four teammates 2023 summer
