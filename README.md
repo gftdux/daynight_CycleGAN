@@ -1,2 +1,3 @@
 # daynight_CycleGAN
-preurp in kaist
+preurp in kaist 
+with four teammates
