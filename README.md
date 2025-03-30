@@ -1,5 +1,5 @@
 # daynight_CycleGAN
-kaist pre-urp 
+KAIST pre-urp 
 
 <br>
 
